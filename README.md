@@ -5,10 +5,11 @@ This project is a straightforward web application for generating random password
 ## Screenshots
 
 1. before generating
-![Random password generator](<Screenshot 2024-05-03 210248.png>)
+![Random password generator](<screenoshots/Screenshot 2024-05-03 210248.png>)
+
 
 2.after generating
-![Random password generator](<Screenshot 2024-05-03 210301.png>)
+![Random password generator](<screenoshots/Screenshot 2024-05-03 210301.png>)
 
 
 ## Features
